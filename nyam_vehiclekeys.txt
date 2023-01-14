@@ -1,1 +1,4 @@
-{version3.0, notesCleaned up junk code and added a new antidupe that fixed many annoying systems, check the updates on quasar-store.com}
+{
+    "version":"3.0",
+    "notes":"Re-write the whole script, better performance, new configure file (config.lua) new exposed folder and files."
+}
