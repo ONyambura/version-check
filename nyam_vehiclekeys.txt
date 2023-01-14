@@ -1,4 +1,1 @@
-{
-    "version":"3.0",
-    "notes":"Re-write the whole script, better performance, new configure file (config.lua) new exposed folder and files."
-}
+{"version":"3.0", "notes":"Re-write the whole script, better performance, new configure file (config.lua) new exposed folder and files."}
