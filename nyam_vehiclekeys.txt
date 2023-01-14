@@ -1,0 +1,1 @@
+{version3.0, notesCleaned up junk code and added a new antidupe that fixed many annoying systems, check the updates on quasar-store.com}
