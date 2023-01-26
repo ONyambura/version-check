@@ -1,1 +1,1 @@
-{"version":"1.1", "notes":"First Push."}
+{"version":"1.1", "msgoftheay":"Thanks for using our scripts :)) have fun", "notes":"First Push."}
