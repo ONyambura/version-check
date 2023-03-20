@@ -1,0 +1,1 @@
+{"version":"1.0", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"unofficial custom app for lb-phone, our discord: discord.gg/mVUgnGjXQU."}
