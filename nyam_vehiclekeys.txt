@@ -1,1 +1,1 @@
-{"version":"3.0", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"Re-write the whole script, better performance, new configure file (config.lua) new exposed folder and files."}
+{"version":"3.0.1", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"Fixed core_inventory for qb version please re-download if using core_inventory and qb-core."}
