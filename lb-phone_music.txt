@@ -1,1 +1,1 @@
-{"version":"1.0", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"unofficial custom app for lb-phone, our discord: discord.gg/mVUgnGjXQU."}
+{"version":"1.1", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"new shared and configurage file, you can set your sound system than xsound with 1.1 version, our discord: discord.gg/mVUgnGjXQU."}
