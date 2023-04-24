@@ -1,1 +1,1 @@
-{"version":"3.3", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"Fixed core_inventory for qb version please re-download if using core_inventory and qb-core."}
+{"version":"3.5", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"New features.. Performance improvements, please check our discord for more info"}
