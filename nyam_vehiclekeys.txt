@@ -1,1 +1,1 @@
-{"version":"3.5", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"New features.. Performance improvements, please check our discord for more info"}
+{"version":"4.0", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"Fixed several errors and malufactions, straight to 4.0"}
