@@ -1,1 +1,1 @@
-{"version":"1.1", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"Swapped to Ace Permissions, please read our Discord Announcements."}
+{"version":"1.2", "msgoftheday":"Download the new version of [n_easysit] from your keymaster and read instructions", "notes":"Small rework of the resource, language possibillity added, read instructions at [n_easysit/readme.md] file."}
