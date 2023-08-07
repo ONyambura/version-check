@@ -1,1 +1,1 @@
-{"version":"4.0", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"Fixed several errors and malufactions, straight to 4.0"}
+{"version":"4.1", "msgoftheday":"Thanks for using our scripts :)) have fun", "notes":"Fully integrated for OX Library & Ox Inventory.\nRead our announcement channel for more details."}
