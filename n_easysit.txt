@@ -1,1 +1,1 @@
-{"version":"1.3", "msgoftheday":"Download the new version of [n_easysit] from your keymaster and read instructions", "notes":"Hotfix where sometimes getting error for (Invalud Lua type in __data > TaskGoStraightTooCoord)."}
+{"version":"1.4", "msgoftheday":"Download the new version of [n_easysit] from your keymaster and read instructions", "notes":"Added option to select scenario while creating a location (Configurable)."}
