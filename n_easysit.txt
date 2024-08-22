@@ -1,1 +1,1 @@
-{"version":"1.4", "msgoftheday":"Download the new version of [n_easysit] from your keymaster and read instructions", "notes":"Added option to select scenario while creating a location (Configurable)."}
+{"version":"1.4.1", "msgoftheday":"Download the new version of [n_easysit] from your keymaster and read instructions", "notes":"Added option to select scenario while creating a location (Configurable).\nHotfix for servers who already had chairs without id, Those chairs by default will use chair id 1"}
