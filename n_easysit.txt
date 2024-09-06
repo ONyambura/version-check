@@ -1,1 +1,1 @@
-{"version":"1.4.1", "msgoftheday":"Download the new version of [n_easysit] from your keymaster and read instructions", "notes":"Added option to select scenario while creating a location (Configurable).\nHotfix for servers who already had chairs without id, Those chairs by default will use chair id 1"}
+{"version":"1.5", "msgoftheday":"Download the new version of [n_easysit] from your keymaster and read instructions", "notes":"Updated Easy Sit to work with latest version of ox_target.\nNew Configurable option (target) accepts 'qb', 'ox', 'q' (use ox option instead of q)."}
